@@ -1,8 +1,16 @@
 td {
-    background-color: azure;
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
-    border-radius: 6px;
-    
+	background-color: brown;
+	width: 45px;
+	height: 45px;
+	border-radius: 5px;
+	box-shadow: 1px 1px 3ps black;
+	cursor: pointer;
+}
+
+
+img {
+	width: 300px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 5px black;
+	border: solid 6px white;
 }
